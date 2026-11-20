@@ -24,10 +24,3 @@ Cada tarea se revisa mediante pull request antes de mergear en la rama principal
 2. opencode implementa el plan en la rama.
 3. Los cambios se commitean y se abre un pull request para revisión.
 4. Tras la aprobación se mergea y se limpian la rama y el worktree.
-
-## Sección temporal de prueba
-
-> Sección de prueba del pipeline. Es temporal y se eliminará en una limpieza futura.
-
-- Verificación de actualización de documentación en la rama `docs/readme`.
-- Fecha: 2026-11-20.
